@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import Feedback from './Feedback';
-import '/examenProgramacionIII/src/App';
+import '../App';
 
 const Game = () => {
   const location = useLocation();

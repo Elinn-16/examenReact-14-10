@@ -1,5 +1,5 @@
 import React from 'react';
-import './Feedback.css';
+import '../App';
 
 const Feedback = ({ feedback, attempts }) => {
   return (

@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
-import '/examenProgramacionIII/src/App';
+import '../App';
 
 const Home = () => {
   const playerNameRef = useRef(null);
